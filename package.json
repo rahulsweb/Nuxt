@@ -1,0 +1,21 @@
+{
+  "name": "dimon",
+  "version": "1.0.0",
+  "description": "Dimon - Vue Nuxt Software App Landing Page Template",
+  "author": "Layerdrops",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@bazzite/nuxt-optimized-images": "^0.3.0",
+    "@nuxtjs/fontawesome": "^1.1.2",
+    "bootstrap-vue": "^2.21.2",
+    "nuxt": "^2.0.0",
+    "vue-select": "^3.16.0"
+  },
+  "devDependencies": {}
+}
