@@ -11,6 +11,8 @@ import { setContext, getLocation, getRouteData, normalizeError } from './utils'
 
 /* Plugins */
 
+import nuxt_plugin_bootstrapvue_676cb68a from 'nuxt_plugin_bootstrapvue_676cb68a' // Source: ./bootstrap-vue.js (mode: 'all')
+
 // Component: <ClientOnly>
 Vue.component(ClientOnly.name, ClientOnly)
 
@@ -116,7 +118,41 @@ async function createApp (ssrContext) {
     ssrContext
   })
 
+  const inject = function (key, value) {
+    if (!key) {
+      throw new Error('inject(key, value) has no key provided')
+    }
+    if (value === undefined) {
+      throw new Error(`inject('${key}', value) has no value provided`)
+    }
+
+    key = '$' + key
+    // Add into app
+    app[key] = value
+
+    // Check if plugin not already installed
+    const installKey = '__nuxt_' + key + '_installed__'
+    if (Vue[installKey]) {
+      return
+    }
+    Vue[installKey] = true
+    // Call Vue.use() to install the plugin into vm
+    Vue.use(() => {
+      if (!Object.prototype.hasOwnProperty.call(Vue, key)) {
+        Object.defineProperty(Vue.prototype, key, {
+          get () {
+            return this.$root.$options[key]
+          }
+        })
+      }
+    })
+  }
+
   // Plugin execution
+
+  if (typeof nuxt_plugin_bootstrapvue_676cb68a === 'function') {
+    await nuxt_plugin_bootstrapvue_676cb68a(app.context, inject)
+  }
 
   // If server-side, wait for async component to be resolved first
   if (process.server && ssrContext && ssrContext.url) {
