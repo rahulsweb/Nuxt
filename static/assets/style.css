@@ -34,10 +34,6 @@ body {
   line-height: 34px;
 }
 
-.vs__deselect {
-  color: #fff !important;
-}
-
 .mt-5 {
   margin-top: 5px;
 }
@@ -54,28 +50,20 @@ body {
   opacity: 1;
 }
 
-
 .vs__selected {
   background-color: #ff4eb5 !important;
   color: white !important;
 }
 
-.vs__dropdown-option--highlight {
-  background: rgb(255, 78, 181) !important;
-  color: #fff !important;
-}
-
 .v-select .vs__dropdown-toggle {
-  background-color: #fefbf4;
-  padding: 1rem !important;
-  border: none !important;
+  padding: 5px !important;
+  border: 2px solid #ff4eb5 !important;
 }
 
 .b-form-btn-label-control.form-control {
-  background-color: #fefbf4;
+  border: 2px solid #ff4eb5 !important;
 
 }
-
 
 .navbar .container {
   display: block !important;
