@@ -12,7 +12,6 @@
   },
   "dependencies": {
     "@bazzite/nuxt-optimized-images": "^0.3.0",
-    "@nuxtjs/fontawesome": "^1.1.2",
     "bootstrap-vue": "^2.21.2",
     "nuxt": "^2.0.0",
     "vue-select": "^3.16.0"
