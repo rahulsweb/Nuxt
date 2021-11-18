@@ -17,9 +17,9 @@
                 </a>
               </h3>
               <h3 class="trial p-2">TRY 30 DAYS FREE!</h3>
-              <ul class="list-unstyled p-3">
+              <ul class="list-unstyled p-3 price-list">
                 <li>1 Room per user</li>
-                <li>Max 10 participates <br />per room</li>
+                <li>Max 10 participates per room</li>
                 <li>Your website integration</li>
                 <li>Free and premium appointments</li>
                 <li>one-to-one and conference/webinar</li>
@@ -41,12 +41,9 @@
                   $49.99/user/month
                 </a>
               </h3>
-              <ul class="list-unstyled mt-5 p-3">
+              <ul class="list-unstyled mt-5 p-3 price-list">
                 <li>3 Room per user</li>
-                <li>
-                  Max 50 participates <br />
-                  per room
-                </li>
+                <li>Max 50 participates per room</li>
                 <li>Your website integration</li>
                 <li>Free and premium appointments</li>
                 <li>one-to-one and conference/webinar</li>
@@ -287,5 +284,20 @@ strong {
 }
 .price-value {
   font-size: 2rem;
+}
+.price-list li:before {
+  content: "✓";
+  color: lightblue;
+  font-size: 20px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.price-list {
+  text-align: left;
+}
+.price-list li {
+  display: inline-flex;
+  line-height: 20px;
 }
 </style>
