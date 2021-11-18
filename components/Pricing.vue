@@ -26,7 +26,7 @@
                 <li>SMS/email notification</li>
                 <li>Extra rooms $4.99/month</li>
               </ul>
-              <br>
+              <br />
             </div>
             <!-- /.service-one__inner -->
           </div>
@@ -41,7 +41,7 @@
                   $49.99/user/month
                 </a>
               </h3>
-              <ul class="list-unstyled mt-5 p-3 ">
+              <ul class="list-unstyled mt-5 p-3">
                 <li>3 Room per user</li>
                 <li>
                   Max 50 participates <br />
@@ -80,7 +80,7 @@
               <div class="row">
                 <div class="col-lg-4 wow fadeInUp" data-wow-duration="1500ms">
                   <div class="text-center">
-                    <strong>$20.00</strong>
+                    <strong class="price-value">$20.00</strong>
                     <br />
                     <p>basic pack</p>
                     <ul class="list-unstyled">
@@ -90,7 +90,7 @@
                       <li><small>Full access</small></li>
                     </ul>
                     <!-- /.list-unstyled -->
-                    <a href="#" class="thm-btn pricing-one__btn"
+                    <a href="#" class="thm-btn choose"
                       ><span>Choose Plan</span></a
                     >
 
@@ -101,17 +101,17 @@
                 <!-- /.col-lg-4 -->
                 <div class="col-lg-4 wow fadeInDown" data-wow-duration="1500ms">
                   <div class="text-center">
-                    <strong>$30.00</strong>
+                    <strong class="price-value">$30.00</strong>
                     <br />
                     <p>medium pack</p>
-                    <ul class="list-unstyled ">
+                    <ul class="list-unstyled">
                       <li><small>Extra features</small></li>
                       <li><small>Lifetime free support</small></li>
                       <li><small>Upgrate options</small></li>
                       <li><small>Full access</small></li>
                     </ul>
                     <!-- /.list-unstyled -->
-                    <a href="#" class="thm-btn pricing-one__btn"
+                    <a href="#" class="thm-btn choose1"
                       ><span>Choose Plan</span></a
                     >
 
@@ -122,7 +122,7 @@
                 <!-- /.col-lg-4 -->
                 <div class="col-lg-4 wow fadeInUp" data-wow-duration="1500ms">
                   <div class="text-center">
-                    <strong>$40.00</strong>
+                    <strong class="price-value">$40.00</strong>
                     <br />
                     <p>premium pack</p>
                     <ul class="list-unstyled">
@@ -132,7 +132,7 @@
                       <li><small>Full access</small></li>
                     </ul>
                     <!-- /.list-unstyled -->
-                    <a href="#" class="thm-btn pricing-one__btn"
+                    <a href="#" class="thm-btn choose2"
                       ><span>Choose Plan</span></a
                     >
 
@@ -147,71 +147,71 @@
           </div>
           <!-- /#month -->
           <div class="pricing-one" id="year">
-                          <div class="row">
-                <div class="col-lg-4 wow fadeInUp" data-wow-duration="1500ms">
-                  <div class="text-center">
-                    <strong>$20.00</strong>
-                    <br />
-                    <p>basic pack</p>
-                    <ul class="list-unstyled">
-                      <li><small>Extra features</small></li>
-                      <li><small>Lifetime free support</small></li>
-                      <li><small>Upgrate options</small></li>
-                      <li><small>Full access</small></li>
-                    </ul>
-                    <!-- /.list-unstyled -->
-                    <a href="#" class="thm-btn pricing-one__btn"
-                      ><span>Choose Plan</span></a
-                    >
+            <div class="row">
+              <div class="col-lg-4 wow fadeInUp" data-wow-duration="1500ms">
+                <div class="text-center">
+                  <strong>$20.00</strong>
+                  <br />
+                  <p>basic pack</p>
+                  <ul class="list-unstyled">
+                    <li><small>Extra features</small></li>
+                    <li><small>Lifetime free support</small></li>
+                    <li><small>Upgrate options</small></li>
+                    <li><small>Full access</small></li>
+                  </ul>
+                  <!-- /.list-unstyled -->
+                  <a href="#" class="thm-btn pricing-one__btn"
+                    ><span>Choose Plan</span></a
+                  >
 
-                    <br /><small class="tag-line">No hidden charges!</small>
-                  </div>
-                  <!-- /. -->
+                  <br /><small class="tag-line">No hidden charges!</small>
                 </div>
-                <!-- /.col-lg-4 -->
-                <div class="col-lg-4 wow fadeInDown" data-wow-duration="1500ms">
-                  <div class="text-center">
-                    <strong>$30.00</strong>
-                    <br />
-                    <p>medium pack</p>
-                    <ul class="list-unstyled ">
-                      <li><small>Extra features</small></li>
-                      <li><small>Lifetime free support</small></li>
-                      <li><small>Upgrate options</small></li>
-                      <li><small>Full access</small></li>
-                    </ul>
-                    <!-- /.list-unstyled -->
-                    <a href="#" class="thm-btn pricing-one__btn"
-                      ><span>Choose Plan</span></a
-                    >
-
-                    <br /><small class="tag-line">No hidden charges!</small>
-                  </div>
-                  <!-- /. -->
-                </div>
-                <!-- /.col-lg-4 -->
-                <div class="col-lg-4 wow fadeInUp" data-wow-duration="1500ms">
-                  <div class="text-center">
-                    <strong>$40.00</strong>
-                    <br />
-                    <p>premium pack</p>
-                    <ul class="list-unstyled">
-                      <li><small>Extra features</small></li>
-                      <li><small>Lifetime free support</small></li>
-                      <li><small>Upgrate options</small></li>
-                      <li><small>Full access</small></li>
-                    </ul>
-                    <!-- /.list-unstyled -->
-                    <a href="#" class="thm-btn pricing-one__btn"
-                      ><span>Choose Plan</span></a
-                    >
-
-                    <br /><small class="tag-line">No hidden charges!</small>
-                  </div>
-                  <!-- /. -->
-                </div>
-                <!-- /.col-lg-4 -->
+                <!-- /. -->
               </div>
+              <!-- /.col-lg-4 -->
+              <div class="col-lg-4 wow fadeInDown" data-wow-duration="1500ms">
+                <div class="text-center">
+                  <strong>$30.00</strong>
+                  <br />
+                  <p>medium pack</p>
+                  <ul class="list-unstyled">
+                    <li><small>Extra features</small></li>
+                    <li><small>Lifetime free support</small></li>
+                    <li><small>Upgrate options</small></li>
+                    <li><small>Full access</small></li>
+                  </ul>
+                  <!-- /.list-unstyled -->
+                  <a href="#" class="thm-btn pricing-one__btn"
+                    ><span>Choose Plan</span></a
+                  >
+
+                  <br /><small class="tag-line">No hidden charges!</small>
+                </div>
+                <!-- /. -->
+              </div>
+              <!-- /.col-lg-4 -->
+              <div class="col-lg-4 wow fadeInUp" data-wow-duration="1500ms">
+                <div class="text-center">
+                  <strong>$40.00</strong>
+                  <br />
+                  <p>premium pack</p>
+                  <ul class="list-unstyled">
+                    <li><small>Extra features</small></li>
+                    <li><small>Lifetime free support</small></li>
+                    <li><small>Upgrate options</small></li>
+                    <li><small>Full access</small></li>
+                  </ul>
+                  <!-- /.list-unstyled -->
+                  <a href="#" class="thm-btn pricing-one__btn"
+                    ><span>Choose Plan</span></a
+                  >
+
+                  <br /><small class="tag-line">No hidden charges!</small>
+                </div>
+                <!-- /. -->
+              </div>
+              <!-- /.col-lg-4 -->
+            </div>
             <!-- /.row -->
           </div>
           <!-- <div class="row">
@@ -284,5 +284,8 @@ strong {
 }
 .pricing-one [class*="col-"] + [class*="col-"] {
   border-left: none !important;
+}
+.price-value {
+  font-size: 2rem;
 }
 </style>
