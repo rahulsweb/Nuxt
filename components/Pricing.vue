@@ -157,7 +157,7 @@
                     <li><small>Full access</small></li>
                   </ul>
                   <!-- /.list-unstyled -->
-                  <a href="#" class="thm-btn pricing-one__btn"
+                  <a href="#" class="thm-btn choose"
                     ><span>Choose Plan</span></a
                   >
 
@@ -178,7 +178,7 @@
                     <li><small>Full access</small></li>
                   </ul>
                   <!-- /.list-unstyled -->
-                  <a href="#" class="thm-btn pricing-one__btn"
+                  <a href="#" class="thm-btn choose1"
                     ><span>Choose Plan</span></a
                   >
 
@@ -199,7 +199,7 @@
                     <li><small>Full access</small></li>
                   </ul>
                   <!-- /.list-unstyled -->
-                  <a href="#" class="thm-btn pricing-one__btn"
+                  <a href="#" class="thm-btn choose2"
                     ><span>Choose Plan</span></a
                   >
 
