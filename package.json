@@ -14,7 +14,8 @@
     "@bazzite/nuxt-optimized-images": "^0.3.0",
     "bootstrap-vue": "^2.21.2",
     "nuxt": "^2.0.0",
-    "vue-select": "^3.16.0"
+    "vue-select": "^3.16.0",
+    "vue-slick-carousel": "^1.0.6"
   },
   "devDependencies": {}
 }
