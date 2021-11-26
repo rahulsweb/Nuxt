@@ -10,20 +10,24 @@
       <!-- /.block-title -->
       <div class="row">
         <div class="col-lg-4 col-md-6 col-sm-12 wow fadeInUp text-center mt-5">
-          <i class="cta-one__icon dimon-icon-data1"></i>
-          <h6 class="mt-2">ENCRYPTED</h6>
+          
+                  <img src="/assets/images/icons/Icon_Encrypted.png" class="cta-one__icon dimon-icon-data1" alt="Awesome Image" width="80" />
+
+          <h6 class="mt-4 font-light-dark">ENCRYPTED</h6>
           <!-- /.service-one__single -->
         </div>
         <!-- /.col-lg-4 col-md-6 col-sm-12 -->
         <div class="col-lg-4 col-md-6 col-sm-12 wow fadeInDown text-center mt-5">
-          <i class="cta-one__icon dimon-icon-data1"></i>
-          <h6 class="mt-2">PRIVATE FANCY URL</h6>
+                            <img src="/assets/images/icons/Icon_Private fancy URL.png" class="cta-one__icon dimon-icon-data1" alt="Awesome Image" width="80" />
+
+          <h6 class="mt-4 font-light-dark">PRIVATE FANCY URL</h6>
           <!-- /.service-one__single -->
         </div>
         <!-- /.col-lg-4 col-md-6 col-sm-12 -->
         <div class="col-lg-4 col-md-6 col-sm-12 wow fadeInUp text-center mt-5">
-          <i class="cta-one__icon dimon-icon-data1"></i>
-          <h6 class="mt-2">WEB OR PHONE ACCESS</h6>
+                            <img src="/assets/images/icons/Icon_Web or phone access.png" class="cta-one__icon dimon-icon-data1" alt="Awesome Image" width="80" />
+
+          <h6 class="mt-4 font-light-dark">WEB OR PHONE ACCESS</h6>
           <!-- /.service-one__single -->
         </div>
         <!-- /.col-lg-4 col-md-6 col-sm-12 -->
@@ -34,21 +38,24 @@
         <!-- /.block-title -->
       <div class="row">
         <div class="col-lg-4 col-md-6 col-sm-12 wow fadeInUp text-center mt-5">
-          <i class="cta-one__icon dimon-icon-data1"></i>
-          <h6 class="mt-2">INTEGRATED CHAT</h6>
+                            <img src="/assets/images/icons/Icon_Integrated chat.png" class="cta-one__icon dimon-icon-data1" alt="Awesome Image" width="80" />
+
+          <h6 class="mt-4 font-light-dark">INTEGRATED CHAT</h6>
           <!-- /.service-one__single -->
         </div>
         <!-- /.col-lg-4 col-md-6 col-sm-12 -->
         <div class="col-lg-4 col-md-6 col-sm-12 wow fadeInDown text-center mt-5">
-          <i class="cta-one__icon dimon-icon-data1"></i>
-          <h6 class="mt-2">REAL-TIME TRANSCRIPTION
+                            <img src="/assets/images/icons/Icon_Real-time transcription and translation.png" class="cta-one__icon dimon-icon-data1" alt="Awesome Image" width="80" />
+
+          <h6 class="mt-4 font-light-dark">REAL-TIME TRANSCRIPTION
 & TRANSLATION</h6>
           <!-- /.service-one__single -->
         </div>
         <!-- /.col-lg-4 col-md-6 col-sm-12 -->
         <div class="col-lg-4 col-md-6 col-sm-12 wow fadeInUp text-center mt-5">
-          <i class="cta-one__icon dimon-icon-data1"></i>
-          <h6 class="mt-2">INTERNATIONAL
+                            <img src="/assets/images/icons/Icon_International outbound calling.png" class="cta-one__icon dimon-icon-data1" alt="Awesome Image" width="80" />
+
+          <h6 class="mt-4 font-light-dark">INTERNATIONAL
 OUTBOUND CALLING</h6>
           <!-- /.service-one__single -->
         </div>
@@ -60,20 +67,23 @@ OUTBOUND CALLING</h6>
         <!-- /.block-title -->
       <div class="row">
         <div class="col-lg-4 col-md-6 col-sm-12 wow fadeInUp text-center mt-5">
-          <i class="cta-one__icon dimon-icon-data1"></i>
-          <h6 class="mt-2">SHARED EDITING</h6>
+                            <img src="/assets/images/icons/Icon_Shared editing.png" class="cta-one__icon dimon-icon-data1" alt="Awesome Image" width="80" />
+
+          <h6 class="mt-4 font-light-dark">SHARED EDITING</h6>
           <!-- /.service-one__single -->
         </div>
         <!-- /.col-lg-4 col-md-6 col-sm-12 -->
         <div class="col-lg-4 col-md-6 col-sm-12 wow fadeInDown text-center mt-5">
-          <i class="cta-one__icon dimon-icon-data1"></i>
-          <h6 class="mt-2">LIVE STREAM EVENTS</h6>
+                            <img src="/assets/images/icons/Icon_Live stream.png" class="cta-one__icon dimon-icon-data1" alt="Awesome Image" width="80" />
+
+          <h6 class="mt-4 font-light-dark">LIVE STREAM EVENTS</h6>
           <!-- /.service-one__single -->
         </div>
         <!-- /.col-lg-4 col-md-6 col-sm-12 -->
         <div class="col-lg-4 col-md-6 col-sm-12 wow fadeInUp text-center mt-5">
-          <i class="cta-one__icon dimon-icon-data1"></i>
-          <h6 class="mt-2">SCREEN SHARING</h6>
+                            <img src="/assets/images/icons/Icon_Screen sharing.png" class="cta-one__icon dimon-icon-data1" alt="Awesome Image" width="80" />
+
+          <h6 class="mt-4 font-light-dark">SCREEN SHARING</h6>
           <!-- /.service-one__single -->
         </div>
         <!-- /.col-lg-4 col-md-6 col-sm-12 -->

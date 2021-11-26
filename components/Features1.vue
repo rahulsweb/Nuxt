@@ -16,7 +16,14 @@
         >
           <div class="service-one__single text-center">
             <div class="service-one__inner first-block">
-              <i class="service-one__icon dimon-icon-laptop"></i>
+               <i class="service-one__icon">
+                <img
+                  src="/assets/images/feature-icons1/Icon_Meetings by appointment.png"
+                  class="brightness"
+                  alt="Awesome Image"
+                  width="70"
+                />
+              </i>
               <h3><a href="#">Meetings by appointment</a></h3>
               <p class="p-2">
                 Create your custom meeting. Share the booking page with your
@@ -37,7 +44,14 @@
         >
           <div class="service-one__single text-center">
             <div class="service-one__inner sec-block">
-              <i class="service-one__icon dimon-icon-presentation"></i>
+                 <i class="service-one__icon">
+                <img
+                  src="/assets/images/feature-icons1/Icon_Walk-in meetings.png"
+                  class="brightness"
+                  alt="Awesome Image"
+                  width="70"
+                />
+              </i>
               <h3><a href="#">Walk-in meetings</a></h3>
               <p class="p-2">
                 Deliver an excellent customer experience by offering instant
@@ -58,7 +72,14 @@
         >
           <div class="service-one__single text-center">
             <div class="service-one__inner third-block">
-              <i class="service-one__icon dimon-icon-target"></i>
+              <i class="service-one__icon">
+                <img
+                  src="/assets/images/feature-icons1/Icon_Large meetings.png"
+                  class="brightness"
+                  alt="Awesome Image"
+                  width="70"
+                />
+              </i>
               <h3><a href="#">Large meetings</a></h3>
               <p class="p-2">
                 Bip it is the perfect solution for large meetings - such as
@@ -97,6 +118,9 @@ export default {
 }
 .third-block{
   padding-bottom:15% !important ;
+}
+.brightness {
+  filter: brightness(0) invert(1);
 }
 
 </style>

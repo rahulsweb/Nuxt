@@ -706,7 +706,7 @@ a:visited {
   border-radius: 50%;
   position: absolute;
   top: -14%;
-  left: -24%;
+  /* left: -24%; */
   -webkit-transform-origin: center bottom;
   transform-origin: center bottom;
   -webkit-animation-fill-mode: both;
@@ -3221,4 +3221,9 @@ a:visited {
   transition: -webkit-transform .4s ease;
   transition: transform .4s ease;
   transition: transform .4s ease, -webkit-transform .4s ease;
+}
+
+
+.font-light-dark{
+  font-weight: 800;
 }

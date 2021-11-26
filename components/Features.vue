@@ -11,7 +11,14 @@
         <div class="p-2">
           <div class="service-one__single text-center wow fadeInUp">
             <div class="service-one__inner first-block">
-              <i class="service-one__icon dimon-icon-laptop"></i>
+              <i class="service-one__icon">
+                <img
+                  src="/assets/images/feature-icons/Icon_Calendar website integration.png"
+                  class="brightness"
+                  alt="Awesome Image"
+                  width="70"
+                />
+              </i>
               <h3>
                 <a href="#"
                   >CALENDAR WEBSITE <br />
@@ -30,7 +37,14 @@
         <div class="p-2">
           <div class="service-one__single text-center wow fadeInUp">
             <div class="service-one__inner first-block">
-              <i class="service-one__icon dimon-icon-presentation"></i>
+              <i class="service-one__icon">
+                <img
+                  src="/assets/images/feature-icons/Icon_Video conference website integration.png"
+                  class="brightness"
+                  alt="Awesome Image"
+                  width="70"
+                />
+              </i>
               <h3>
                 <a href="#"
                   >VIDEO CONFERENCE<br />
@@ -52,7 +66,14 @@
             data-wow-duration="1500ms"
           >
             <div class="service-one__inner first-block">
-              <i class="service-one__icon dimon-icon-target"></i>
+              <i class="service-one__icon">
+                <img
+                  src="/assets/images/feature-icons/Icon_Multiple booking forms.png"
+                  class="brightness"
+                  alt="Awesome Image"
+                  width="70"
+                />
+              </i>
               <h3>
                 <a href="#"
                   >MULTIPLE <br />
@@ -74,7 +95,14 @@
             data-wow-duration="1500ms"
           >
             <div class="service-one__inner first-block">
-              <i class="service-one__icon dimon-icon-visualization"></i>
+              <i class="service-one__icon">
+                <img
+                  src="/assets/images/feature-icons/Icon_Free and paid appointments.png"
+                  class="brightness"
+                  alt="Awesome Image"
+                  width="70"
+                />
+              </i>
               <h3>
                 <a href="#"
                   >FREE & PAID <br />
@@ -104,7 +132,14 @@
             data-wow-duration="1500ms"
           >
             <div class="service-one__inner first-block">
-              <i class="service-one__icon dimon-icon-laptop"></i>
+              <i class="service-one__icon">
+                <img
+                  src="/assets/images/feature-icons/Icon_Multi-language.png"
+                  class="brightness"
+                  alt="Awesome Image"
+                  width="70"
+                />
+              </i>
               <h3>
                 <a href="#"> MULTI-LANGUAGE </a>
               </h3>
@@ -117,7 +152,14 @@
         <div class="p-2">
           <div class="service-one__single text-center">
             <div class="service-one__inner first-block">
-              <i class="service-one__icon dimon-icon-presentation"></i>
+              <i class="service-one__icon">
+                <img
+                  src="/assets/images/feature-icons/Icon_API support.png"
+                  class="brightness"
+                  alt="Awesome Image"
+                  width="70"
+                />
+              </i>
               <h3>
                 <a href="#"> API SUPPORT </a>
               </h3>
@@ -134,7 +176,14 @@
         <div class="p-2">
           <div class="service-one__single text-center">
             <div class="service-one__inner first-block">
-              <i class="service-one__icon dimon-icon-target"></i>
+              <i class="service-one__icon">
+                <img
+                  src="/assets/images/feature-icons/Icon_White label support.png"
+                  class="brightness"
+                  alt="Awesome Image"
+                  width="70"
+                />
+              </i>
               <h3>
                 <a href="#"> WHITE LABEL SUPPORT </a>
               </h3>
@@ -150,7 +199,14 @@
         <div class="p-2">
           <div class="service-one__single text-center">
             <div class="service-one__inner first-block">
-              <i class="service-one__icon dimon-icon-visualization"></i>
+              <i class="service-one__icon">
+                <img
+                  src="/assets/images/feature-icons/Icon_Webinar support.png"
+                  class="brightness"
+                  alt="Awesome Image"
+                  width="70"
+                />
+              </i>
               <h3>
                 <a href="#"> WEBINAR SUPPORT </a>
               </h3>
@@ -169,7 +225,14 @@
         <div class="p-2">
           <div class="service-one__single text-center">
             <div class="service-one__inner first-block">
-              <i class="service-one__icon dimon-icon-laptop"></i>
+              <i class="service-one__icon">
+                <img
+                  src="/assets/images/feature-icons/Icon_Reporting and analytics.png"
+                  class="brightness"
+                  alt="Awesome Image"
+                  width="70"
+                />
+              </i>
               <h3>
                 <a href="#">REPORTING & ANALYTICS</a>
               </h3>
@@ -185,7 +248,14 @@
         <div class="p-2">
           <div class="service-one__single text-center">
             <div class="service-one__inner first-block">
-              <i class="service-one__icon dimon-icon-presentation"></i>
+              <i class="service-one__icon">
+                <img
+                  src="/assets/images/feature-icons/Icon_Pooled availability for teams.png"
+                  class="brightness"
+                  alt="Awesome Image"
+                  width="70"
+                />
+              </i>
               <h3>
                 <a href="#">POOLED AVAILABILITY FOR TEAMS</a>
               </h3>
@@ -201,7 +271,14 @@
         <div class="p-2">
           <div class="service-one__single text-center">
             <div class="service-one__inner first-block">
-              <i class="service-one__icon dimon-icon-target"></i>
+              <i class="service-one__icon">
+                <img
+                  src="/assets/images/feature-icons/Icon_On-line and on-site meetings.png"
+                  class="brightness"
+                  alt="Awesome Image"
+                  width="70"
+                />
+              </i>
               <h3>
                 <a href="#">ON-LINE & ON-SITE MEETINGS</a>
               </h3>
@@ -217,7 +294,14 @@
         <div class="p-2">
           <div class="service-one__single text-center">
             <div class="service-one__inner first-block">
-              <i class="service-one__icon dimon-icon-visualization"></i>
+              <i class="service-one__icon">
+                <img
+                  src="/assets/images/feature-icons/Icon_Certified voting.png"
+                  class="brightness"
+                  alt="Awesome Image"
+                  width="70"
+                />
+              </i>
               <h3>
                 <a href="#">CERTIFIED VOTING</a>
               </h3>
@@ -236,7 +320,14 @@
         <div class="p-2">
           <div class="service-one__single text-center">
             <div class="service-one__inner first-block">
-              <i class="service-one__icon dimon-icon-laptop"></i>
+              <i class="service-one__icon">
+                <img
+                  src="/assets/images/feature-icons/Icon_Calendar synchronization.png"
+                  class="brightness"
+                  alt="Awesome Image"
+                  width="70"
+                />
+              </i>
               <h3>
                 <a href="#">CALENDARS SYNCHRONIZATION</a>
               </h3>
@@ -252,7 +343,14 @@
         <div class="p-2">
           <div class="service-one__single text-center">
             <div class="service-one__inner first-block">
-              <i class="service-one__icon dimon-icon-presentation"></i>
+              <i class="service-one__icon">
+                <img
+                  src="/assets/images/feature-icons/Icon_Fancy calendar link.png"
+                  class="brightness"
+                  alt="Awesome Image"
+                  width="70"
+                />
+              </i>
               <h3>
                 <a href="#">FANCY CALENDAR LINK</a>
               </h3>
@@ -265,7 +363,14 @@
         <div class="p-2">
           <div class="service-one__single text-center">
             <div class="service-one__inner first-block">
-              <i class="service-one__icon dimon-icon-target"></i>
+              <i class="service-one__icon">
+                <img
+                  src="/assets/images/feature-icons/Icon_Reminders.png"
+                  class="brightness"
+                  alt="Awesome Image"
+                  width="70"
+                />
+              </i>
               <h3>
                 <a href="#">REMINDERS MEETINGS</a>
               </h3>
@@ -281,7 +386,14 @@
         <div class="p-2">
           <div class="service-one__single text-center">
             <div class="service-one__inner first-block">
-              <i class="service-one__icon dimon-icon-visualization"></i>
+              <i class="service-one__icon">
+                <img
+                  src="/assets/images/feature-icons/Icon_Video call routing and forwarding.png"
+                  class="brightness"
+                  alt="Awesome Image"
+                  width="70"
+                />
+              </i>
               <h3>
                 <a href="#">VIDEO CALL ROUTING & FORWARDING</a>
               </h3>
@@ -312,7 +424,7 @@ export default {
   data() {
     return {
       settings: {
-        arrows: false,
+        arrows: true,
         dots: true,
         infinite: true,
         autoplay: true,
@@ -364,5 +476,8 @@ export default {
 } */
 .first-block {
   height: 500px;
+}
+.brightness {
+  filter: brightness(0) invert(1);
 }
 </style>

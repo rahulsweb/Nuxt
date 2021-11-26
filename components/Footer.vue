@@ -6,7 +6,7 @@
           <div class="row">
             <div class="col-lg-3">
               <div class="footer-widget footer-widget__about">
-                <img src="/assets/images/resources/logo-dark.png" width="119" alt="" class="footer-widget__logo">
+                <img src="/assets/images/resources/Bip it Logo.png" width="119" alt="" class="footer-widget__logo">
                 <p class="footer-widget__contact"><a href="tel:888-666-0000">888 666 0000</a></p>
                 <!-- /.footer-widget__contact -->
                 <p class="footer-widget__contact"><a href="mailto:needhelp@example.com">needhelp@example.com</a>

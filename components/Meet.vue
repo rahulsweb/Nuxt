@@ -5,7 +5,13 @@
       <div class="row ">
         <div class="col-lg-6">
           <div class="cta-one__content">
-            <i class="cta-one__icon dimon-icon-data1"></i>
+            <!-- <i class="cta-one__icon dimon-icon-data1"></i> -->
+              <img
+                src="/assets/images/dashboard/Icon_Meet.png"
+                class="cta-one__icon dimon-icon-data1"
+                alt="Awesome Image"
+                width="80"
+              />
             <div class="block-title text-left">
               <h2 class="block-title__title">Meet</h2><!-- /.block-title__title -->
             </div><!-- /.block-title -->

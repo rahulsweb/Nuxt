@@ -671,8 +671,8 @@ a:visited {
 }
 
 .banner-one .container {
-  padding-top: 350px;
-  padding-bottom: 230px;
+  padding-top: 300px;
+  padding-bottom: 50px;
   position: relative;
 }
 
@@ -717,8 +717,8 @@ a:visited {
   box-shadow: 0px 20px 60px 0px rgba(244, 151, 190, 0.8);
   border-radius: 50%;
   position: absolute;
-  top: -14%;
-  left: -24%;
+top: -20%;
+left: -20%;
   -webkit-transform-origin: center bottom;
   transform-origin: center bottom;
   -webkit-animation-fill-mode: both;
@@ -735,8 +735,10 @@ a:visited {
 
 .banner-one__moc img {
   position: relative;
+  left:0%;
   -webkit-animation: featureImgBounce 5s ease-in-out 0s infinite alternate;
   animation: featureImgBounce 5s ease-in-out 0s infinite alternate;
+
 }
 
 [class*=banner-one__shape-] {
@@ -3250,4 +3252,9 @@ a:visited {
   transition: -webkit-transform .4s ease;
   transition: transform .4s ease;
   transition: transform .4s ease, -webkit-transform .4s ease;
+}
+
+
+.font-light-dark{
+  font-weight: 800;
 }
