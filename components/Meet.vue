@@ -1,7 +1,7 @@
 <template>
   <section class="cta-one">
     <div class="container">
-      <img src="/assets/images/mocs/cta-moc-1-1.png" class="cta-two__moc" alt="Awesome Image" />
+      <img id="meet" src="/assets/images/Bip_Meet.png" class="cta-two__moc" alt="Awesome Image" />
       <div class="row ">
         <div class="col-lg-6">
           <div class="cta-one__content">
@@ -36,5 +36,4 @@ appointment or accept walk-in meetings.</p>
 </script>
 
 <style scoped>
-
 </style>

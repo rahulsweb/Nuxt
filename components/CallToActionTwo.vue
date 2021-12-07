@@ -3,7 +3,8 @@
     <section class="cta-two">
       <div class="container">
         <img
-          src="/assets/images/mocs/cta-moc-2-1.png"
+        id="meet"
+          src="/assets/images/Bip it for voting.png"
           class="cta-two__moc"
           alt="Awesome Image"
         />
@@ -54,4 +55,5 @@ export default {
 </script>
 
 <style scoped>
+
 </style>

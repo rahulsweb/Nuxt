@@ -16,7 +16,7 @@
         >
           <div class="service-one__single text-center">
             <div class="service-one__inner first-block">
-               <i class="service-one__icon">
+              <i class="service-one__icon">
                 <img
                   src="/assets/images/feature-icons1/Icon_Meetings by appointment.png"
                   class="brightness"
@@ -31,7 +31,6 @@
                 The booking is automatically added to your calendar and your
                 customers’ calendar.
               </p>
-             
             </div>
             <!-- /.service-one__inner -->
           </div>
@@ -44,7 +43,7 @@
         >
           <div class="service-one__single text-center">
             <div class="service-one__inner sec-block">
-                 <i class="service-one__icon">
+              <i class="service-one__icon">
                 <img
                   src="/assets/images/feature-icons1/Icon_Walk-in meetings.png"
                   class="brightness"
@@ -59,7 +58,6 @@
                 teams whenever they are available, without booking. Your
                 customers will be happy, your teams will have no downtime.
               </p>
-            
             </div>
             <!-- /.service-one__inner -->
           </div>
@@ -89,7 +87,6 @@
                 participants to speak and vote; they take care of the streaming
                 and manage the documents and the meeting room.
               </p>
-             
             </div>
             <!-- /.service-one__inner -->
           </div>
@@ -110,17 +107,16 @@ export default {
 </script>
 
 <style scoped>
-.first-block{
-  padding-bottom:55% !important ;
+.first-block {
+  padding-bottom: 55% !important ;
 }
-.sec-block{
-  padding-bottom:45% !important ;
+.sec-block {
+  padding-bottom: 45% !important ;
 }
-.third-block{
-  padding-bottom:15% !important ;
+.third-block {
+  padding-bottom: 15% !important ;
 }
 .brightness {
   filter: brightness(0) invert(1);
 }
-
 </style>

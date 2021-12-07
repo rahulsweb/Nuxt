@@ -14,7 +14,7 @@
     },
     head(){
       return {
-        title: "Dimon | Vue Nuxt Software App Landing Page Template"
+        title: "bip-it"
       }
     }
 

@@ -3,7 +3,8 @@
     <!-- <img src="/assets/images/background/cta-one-bg.png" class="cta-one__bg" alt="Awesome Image" /> -->
     <div class="container">
       <img
-        src="/assets/images/mocs/cta-moc-1-1.png"
+      id="meet"
+        src="/assets/images/Bip_Geet booked without overlaps.png"
         class="cta-one__moc"
         alt="Awesome Image"
       />
@@ -51,4 +52,5 @@ export default {
 </script>
 
 <style scoped>
+
 </style>
