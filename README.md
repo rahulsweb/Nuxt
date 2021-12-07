@@ -1,6 +1,6 @@
 # dimon
 
-> Dimon - Vue Nuxt Software App Landing Page Template
+> bip-it
 
 ## Build Setup
 

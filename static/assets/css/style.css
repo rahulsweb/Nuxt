@@ -53,7 +53,9 @@ body {
 .opacity-1 {
   opacity: 1;
 }
-
+#meet{
+  max-height: 625px;
+}
 
 .vs__selected {
   background-color: #ff4eb5 !important;
@@ -968,8 +970,8 @@ left: -20%;
 
 .banner-two__moc {
   position: absolute;
-  bottom: 0;
-  right: 0px;
+  bottom: 10%;
+  right: 5%;
 }
 
 .banner-two__moc img {
@@ -2864,7 +2866,7 @@ left: -20%;
 .cta-one__moc {
   position: absolute;
   top: -45px;
-  left: -10%;
+  left: 0;
   -webkit-animation: featureImgBounce 5s ease-in-out 0s infinite alternate;
   animation: featureImgBounce 5s ease-in-out 0s infinite alternate;
 }
@@ -2934,7 +2936,7 @@ left: -20%;
 .cta-two__moc {
   position: absolute;
   top: -40px;
-  right: -35px;
+  right: -5%;
   -webkit-animation: featureImgBounce 5s ease-in-out 0s infinite alternate;
   animation: featureImgBounce 5s ease-in-out 0s infinite alternate;
 }

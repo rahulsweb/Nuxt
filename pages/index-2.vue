@@ -78,7 +78,7 @@ export default {
   },
   head() {
     return {
-      title: "Home 2 | Vue Nuxt Software App Landing Page Template",
+      title: "Home 2",
     };
   },
 };

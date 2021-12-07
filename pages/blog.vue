@@ -20,7 +20,7 @@
     },
     head(){
       return {
-        title: "Dimon | Blog"
+        title: "Bip | Blog"
       }
     }
   }

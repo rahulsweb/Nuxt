@@ -1,7 +1,7 @@
 {
-  "name": "dimon",
+  "name": "bip",
   "version": "1.0.0",
-  "description": "Dimon - Vue Nuxt Software App Landing Page Template",
+  "description": "bip-it",
   "author": "Layerdrops",
   "private": true,
   "scripts": {
